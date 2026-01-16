@@ -1,6 +1,6 @@
 <div align="center">
 
-# [**Action100M**: A Large-scale Video Action Dataset](https://www.arxiv.org/abs/2601.xxxxxx)
+# [**Action100M**: A Large-scale Video Action Dataset](https://www.arxiv.org/abs/2601.10592)
 
 
 [**Delong Chen**](https://chendelong.world/)
@@ -120,7 +120,7 @@ Action100M is under FAIR Noncommercial Research License, as found in the LICENSE
 @article{chen2026action100m,
   title={Action100M: A Large-scale Video Action Dataset},
   author={Chen, Delong and Kasarla, Tejaswi and Bang, Yejin and Shukor, Mustafa and Chung, Willy and Yu, Jade and Bolourchi, Allen and Moutakanni, Théo and Fung, Pascale},
-  journal={arXiv preprint arXiv:2601.xxxxx},
+  journal={arXiv preprint arXiv:2601.10592},
   year={2026}
 }
 ```
